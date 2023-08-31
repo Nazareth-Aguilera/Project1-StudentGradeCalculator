@@ -9,7 +9,7 @@
 
 # INSTRUCTIONS:
 
-![Instructions](./Assets/images/instructions.PNG)
+![Instructions](./Assets/images/Instructions.PNG)
 
 # NOTES:
 
